@@ -1,4 +1,4 @@
-# Why we built this:
+# Why I built this:
 
 I wanted to create AI that could talk like a fictional character. Discord has become a very popular community messaging platform. It uses bots that can be programmed to reply to any message. So I thought of building a Discord Chat Bot that could message like a fictional character. It will help us to understand the Generative Pre-trained Transfomer Model which is a very popular language model.
 
